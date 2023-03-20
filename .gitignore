@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!.zshrc
+!.tmux
+!.config/alacritty/alacritty.yml
+!.config/i3/config
+!.config/starship.toml
+!.config/nvim/*

@@ -51,7 +51,6 @@ format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
 [python]
 symbol = ""
 style = "bg:#212736"
-pyenv_version_name = true
 format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
 
 [golang]
